@@ -1,16 +1,8 @@
-# dinamik_ortalama_hesaplama
+# Flutter Mini App
+a simple mini andorid app with flutter
 
-A new Flutter project.
+## ScreenShots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/ademhatay/mini-app/assets/66277966/1696641f-e88c-4b15-a2ba-6c2f4a838872" />
+<img width="250" src="https://github.com/ademhatay/mini-app/assets/66277966/46179ad7-7de5-4917-b6af-ad24d94e6eb1" />
+<img width="250" src="https://github.com/ademhatay/mini-app/assets/66277966/0eed605a-6f2e-4ec0-ad84-04de5dd6ecf7" />
